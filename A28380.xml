@@ -1,0 +1,275 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[A] rejoynder to Mr. Henry Danvers his brief friendly reply to my ansvver about infant-baptism / by Richard Blinman ...</title>
+            <author>Blinman, Richard.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28380</idno>
+            <idno type="STC">Wing B3192A</idno>
+            <idno type="STC">ESTC R33230</idno>
+            <idno type="EEBO-CITATION">13109413</idno>
+            <idno type="OCLC">ocm 13109413</idno>
+            <idno type="VID">97602</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28380)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97602)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1543:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[A] rejoynder to Mr. Henry Danvers his brief friendly reply to my ansvver about infant-baptism / by Richard Blinman ...</title>
+                  <author>Blinman, Richard.</author>
+               </titleStmt>
+               <extent>[4], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Wall ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"To the reader" signed: Richard Blinman.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Danvers, Henry, d. 1687.</term>
+               <term>Infant baptism --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97602:1"/>
+            <pb facs="tcp:97602:1" rendition="simple:additions"/>
+            <p>A REJOYNDER TO M<hi rend="sup">R.</hi> 
+               <hi>HENRY DANVERS</hi> HIS Brief friendly Reply TO MY ANSVVER ABOUT INFANT-BAPTISM. By <hi>RICHARD BLINMAN</hi> Miniſter of the Goſpel.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Wall</hi> Bookſeller in <hi>Bristol,</hi> 1675</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:97602:2"/>
+            <pb facs="tcp:97602:2"/>
+            <head>To the READER.</head>
+            <opener>
+               <salute>Courteous and Impartial Reader;</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Have made bold to trouble thee yet this once, with theſe few pages, by way of Rejoynder to Mr. <hi>Henry Danvers</hi> his friendly Reply (as he calls it) to my Eſſay, in anſwer to his firſt Book againſt Infants Bap<g ref="char:EOLhyphen"/>tiſm. In which, though there were many hard cen<g ref="char:EOLhyphen"/>ſures againſt it, and unworthy reflections againſt thoſe that maintain it; yet I choſe in mildneſs (as the Lord helped me) to refute them, rather than in bit<g ref="char:EOLhyphen"/>terneſs ſo as to raiſe a Paroxyſm. Hoping that he might have taken notice of ſomething, that (upon ſerious conſideration) might have ſtop'd his pro<g ref="char:EOLhyphen"/>ceedings in that controverſy. But now in his third piece lately publiſh'd, I find many unhandſome and biting taxations (though by a Rhetorical Artifice) reflected upon me; which I did not expect from a Gen<g ref="char:EOLhyphen"/>tleman of his education; much leſs from a Chriſti<g ref="char:EOLhyphen"/>an, (as I hope he is) though at preſent led aſide, and leading others; and leaſt of all from him who hath ſo deeply cenſured, and characteriſed Mr. <hi>Wills</hi> for harſh and uncharitable dealing with him. I could willingly ſuppoſe thoſe extravagancies do proceed ra<g ref="char:EOLhyphen"/>ther from ſome Partners and Abettors, than from himſelf; I having ſome ground to conclude, that he had other heads beſides his own in his Reply both to Mr. <hi>Wills,</hi> and to my ſelf. I ſhould willingly have been ſilent, had they terminated in my own perſon on<g ref="char:EOLhyphen"/>ly, and never have troubled the Reader with my Vin<g ref="char:EOLhyphen"/>dication.
+<pb facs="tcp:97602:3"/>But obſerving how he had drawn a veil over my Arguments, (which every Reader cannot diſcern) and triumphed over the truth in them; and what he hath ſaid tending to the weakning of the eſteem of my miniſtry; I thought my ſelf bound in conſcience to diſcover the weakneſs of his Reply, and to return his ſevere reflections upon himſelf, to whom they are rightly due, (as I hope will appear). And this I do, not to diſgrace his perſon, (for I can truly ſay, I have a love and pity for him, and do not at all compliment him, as he doth me, with <hi>[your ſervant]</hi>): but to make his miſtakes appear, that the honeſt and ſimple-hearted may not be led aſide. I ſhall deſire the Readers pardon, for giving him the trouble of theſe pages; promiſing him, that unleſs I ſee more preſſing reaſons than at preſent I do, never to trouble him more with writings of this kind; which I ſee will be endleſs, till the Lord take another way to con<g ref="char:EOLhyphen"/>vince men of their error. I had almoſt forgotten to tell thee, kind Reader, that in all his Reply to me, I have not obſerved any thing that undermines the main of my Arguments; only that which he brings out of <hi>Acts, 2.1.</hi> anſwers to one particular, <hi>viz.</hi> How he knew, but that they might be dead, or abſent, as <hi>Thomas</hi> once was?</p>
+            <closer>
+               <signed>
+                  <hi>Thine to further thee in the truth,</hi> RICHARD BLINMAN.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb n="1" facs="tcp:97602:3"/>
+            <head>A Rejoynder to Mr. <hi>Henry Danvers</hi> his brief friendly Reply (as he calls it) to my Anſwer about In<g ref="char:EOLhyphen"/>fants Baptiſm.</head>
+            <p>I Shall acknowledg his Reply to be brief, he having replied to little of my book; but how friendly it is, ſhall afterwards appear.</p>
+            <p>It ſeems by his Frontiſpiece to Mr. <hi>Wills,</hi> he knew my name to be <hi>Blinman,</hi> though he was pleaſed to call me <hi>Blind<g ref="char:EOLhyphen"/>man,</hi> in the head of every leaf; whether deſignedly or no, he beſt knows.</p>
+            <p>As for the ſevere reflections he charges me withal, I ſhall anſwer to them when I come to his particulars. Only I ſhall at preſent ſay in general, that divers judi<g ref="char:EOLhyphen"/>cious perſons, that have read my anſwer to him, do ſay, that I have dealt more gently with him than any they have yet ſeen, who have written againſt that per<g ref="char:EOLhyphen"/>ſwaſion.</p>
+            <p>I ſhall deſire the reader to obſerve, how either ignorantly, or knowingly, he obſcures my Argument, and the ſcope of it, concerning womens receiving the
+<pb n="2" facs="tcp:97602:4"/>Lord's Supper; as may appear in my Book, pag. 2, and other places. The force of my Argument lay againſt the Expreſſneſs both of the command, and example that he brought: ſhewing that he could not prove it in expreſs terms] from thoſe Scriptures, it being not ſaid there expreſly] that thoſe women were believers, and that they did receive the Lord's-Supper; but it muſt be ga<g ref="char:EOLhyphen"/>thered by conſequence, and deduction from thoſe, and other Texts. A thing conſtantly diſowned by thoſe of that perſwaſion, that I have diſcourſed with upon that point; for, though they will grant conſequences from Scriptures in matters of Faith, yet they profeſſedly de<g ref="char:EOLhyphen"/>ny them in matters of Worſhip, and con<g ref="char:EOLhyphen"/>ſequently in this of the baptizing of In<g ref="char:EOLhyphen"/>fants. Mr. <hi>Danvers</hi> might therefore have been yet more brief in his Brevity, if his Bolt had been ſhot leſs at random, and been levelled point-blank at what I aſ<g ref="char:EOLhyphen"/>ſerted. Let him ſhew it, if he can, in expreſs] terms: if not, as he cannot, let him and others rid themſelves and their hearers of that dangerous principle, which inſtead of eſtabliſhing the ordinances of the Goſpel, and the priviledges of the
+<pb n="3" facs="tcp:97602:4"/>Church, and members of it, (which they pretend to) will ſhake ſome of them at leaſt, if not ſhatter them wholly. And if conſequences be lawful (and indeed neceſſary) in matters of worſhip at all, why not then allowable in this point of Infants Baptiſm, which concerns the ſub<g ref="char:EOLhyphen"/>ject of it?</p>
+            <p>As for my exception, which ſeems to him to be defective in Grammar, as well as in Divinity.] He to prove it to be ſo, brings in examples of the figure <hi>Syllepſis;</hi> whereby the more unworthy Gender is comprehended under the more worthy; the female under the male. He might have taken notice, if he had not been wedded to his pre-apprehenſions; that I did not deny women in Church-eſtate, to have a right to the Lord's Supper, any more than I denied men; but I only de<g ref="char:EOLhyphen"/>nied them to be expreſly] ſaid, to have received the Lord's Supper, in the proofs that he produced; which I pray the Rea<g ref="char:EOLhyphen"/>der to take notice of, as the hinge upon which the controverſy here depends. And therefore I ſaid, pag. 10. of my Book; <q rend="inline">What Arguments do ſatisfie me con<g ref="char:EOLhyphen"/>cerning the right of women to the Lord's Supper; and how I can reſolve
+<pb n="4" facs="tcp:97602:5"/>this Text (the like I ſay of others) to my own ſatisfaction, is not my work at preſent to declare.</q> Whence he might eaſily judge, that I underſtand the figure <hi>Syllepſis (ſit verbo venia)</hi> as well as he. He might therefore have ſpared thoſe lines; to wit, <q>Why ſhould you ſo forget your ſelf, as to think it ſtrange, that the believing women ſhould be comprehended under the be<g ref="char:EOLhyphen"/>lieving men?</q> — I did not forget my ſelf, but through grace, knew what I did; as the judicious Reader will eaſily per<g ref="char:EOLhyphen"/>ceive.</p>
+            <p>As to my defect in Divinity,] I bleſs God I am ſomewhat ſenſible of my de<g ref="char:EOLhyphen"/>ficiency therein; and I think it would do him no harm, if he were more ſenſible of his alſo. But I do not think my ſelf ever the more deficient becauſe this Gentle<g ref="char:EOLhyphen"/>man tells me ſo; nor upon the ground on which he ſaith it. His inſtance of male and female, both called <hi>Adam, &amp;c.</hi> makes not againſt my Argument, nor do prove me defective in Divinity. And I wiſh he had ſhewn, when, or where I ſaid, that the article <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, is limited to the maſcu<g ref="char:EOLhyphen"/>line gender ſo, as [always] to underſtand thereby the man only, ſo as to exclude
+<pb n="5" facs="tcp:97602:5"/>the figure <hi>Syllepſis;</hi> which every judici<g ref="char:EOLhyphen"/>ous Reader will ſee muſt be his meaning, if he ſay any thing. But this I ſay, and ſhall ſtill affirm, that the article <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, doth expreſly] indicate men, or (if you will) males; and not expreſly] women, or fe<g ref="char:EOLhyphen"/>males. I ſay expreſly,] and therein lies the force of my Argument againſt him, and others of his perſwaſion, who admit only of expreſs] Scriptures in matters of worſhip, and not deductions or conſequen<g ref="char:EOLhyphen"/>ces. And yet they are forced to make uſe of them (though they will not open<g ref="char:EOLhyphen"/>ly own them) to maintain ſome things in matters of worſhip; as in this very in<g ref="char:EOLhyphen"/>ſtance of his doth plainly appear. And the other inſtances he brings, are ſo far from an expreſs] mentioning of women or females, that he muſt flie to the figure <hi>Syllepſis,</hi> to comprehend them under the article <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which is of the maſculine gen<g ref="char:EOLhyphen"/>der. And hence, he may not only hope, out be aſſured of it, that I will ſay the article <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, doth not expreſly] ſignify fe<g ref="char:EOLhyphen"/>males; and that as to the expreſneſs of it, it is limited to men, and not women; there being another article <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, expreſly to denote the feminine gender, or fe<g ref="char:EOLhyphen"/>males.</p>
+            <pb n="6" facs="tcp:97602:6"/>
+            <p>And this will ſerve for anſwer to his other exceptions concerning the other Greek words, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> whence may be ſeen, that my exceptions unto his examples are not inſignificant, much leſs utterly inſignificant, as he terms them.</p>
+            <p>As my own conſcience ſeals to this truth, that women have a right to the Lord's Supper as well as men; ſo I have without being forced (as he pleaſes to phraſe it) willingly declared it. <hi>And that it is not pleaſing to me</hi> (<hi>take it in my own words, as in pag.</hi> 10.) <hi>to raiſe obje<g ref="char:EOLhyphen"/>ctions againſt any truth of God; nor yet would I loſe any grain of truth that will flow from a Scripture.</hi> This laſt he hath left out; as perhaps not willing to admit grains of truth, in a point againſt which he hath been ſo deeply engaged.</p>
+            <p>The verity confirmed by me is plain and ſo, I hope, ere this, is the falſity op<g ref="char:EOLhyphen"/>poſed by me; which this Gentleman would confirm, or at leaſt ſo darken, that it might not be perceived.</p>
+            <p>I come next to the parallel; whether the examples I bring from <hi>Lydia</hi> and he houſe,<note place="margin">
+                  <hi>Act.</hi> 16.15. 1 <hi>Cor.</hi> 1.16.</note> or houſhold, (for the Greek word is uſed for both) and the houſhold of
+<pb n="7" facs="tcp:97602:6"/>
+               <hi>Stephanas,</hi> be not as clear a proof at leaſt, for Infants (or under-age children) bap<g ref="char:EOLhyphen"/>tized, as the proofs he brought from <hi>Acts</hi> 1, and <hi>Acts</hi> 2; for womens receiving the Lord's Supper, which he excepts a<g ref="char:EOLhyphen"/>gainſt. — Becauſe,</p>
+            <p n="1">1. Not one Infant is ſo much as named in either, much leſs that they were bap<g ref="char:EOLhyphen"/>tized in them.</p>
+            <p>I anſwer; he ſhould have taken my words, and ſenſe; <hi>viz.</hi> children; that is, ſuch as are under age, though not Infants, which he knows to be meant as well as Infants. And it is apparent in Scripture, (which is a better expoſitor of it ſelf, than he, or all the men in the world) that houſe, or houſhold, doth frequently ſignify chil<g ref="char:EOLhyphen"/>dren, yea one child, 1 <hi>King.</hi> 17.12, 13, 15. And there being no other converted per<g ref="char:EOLhyphen"/>ſons mentioned there, (as in ſome other Scriptures there are, which I then purpoſe<g ref="char:EOLhyphen"/>ly omitted) it is to me more than proba<g ref="char:EOLhyphen"/>ble, that by the houſhold, is meant a child, or children; which is further illuſtrated and confirmed upon other grounds in my Book. It is as expreſly] ſaid, that a child, or children are the houſe, (or houſhold) and that the houſhold was baptized; as it is expreſly mentioned, that women
+<pb n="8" facs="tcp:97602:7"/>were of the number of the 120 Diſciples, and that all that believed, broke bread.</p>
+            <p>Secondly. He asks, are children as ex<g ref="char:EOLhyphen"/>preſly owned to have right to Baptiſm, and enjoyned thereto, <hi>&amp;c.</hi> as women are expreſly owned to have right to the ordi<g ref="char:EOLhyphen"/>nance of the Supper?</p>
+            <p>As for other things in that Queſtion about their capability to diſcern the ſpi<g ref="char:EOLhyphen"/>ritual myſteries thereof, <hi>&amp;c.</hi> they are an<g ref="char:EOLhyphen"/>ſwered to in my Book, to which I refer the Reader. Nor ſhall I ſay much to the other here, I having there alſo ſpoken more largely to the ſubſtance of it. On<g ref="char:EOLhyphen"/>ly I ſhall ſay in brief, they are ſo expreſly owned by the Lord in his Covenant made with <hi>Abraham,</hi> and his Church-ſeed, <hi>Gen.</hi> 17.7. (which is now come upon us Gentiles, <hi>Gal.</hi> 3.13.) the ſeal only changed; and owned to have a right to the initia<g ref="char:EOLhyphen"/>tory-ſeal then, and never caſt out, but confirmed, <hi>Acts</hi> 2.39. and alſo compre<g ref="char:EOLhyphen"/>hended within Chriſt's commiſſion, <hi>Matt.</hi> 28.19. (as I have made appear in my Eſſay) that it ſhould make him trem<g ref="char:EOLhyphen"/>ble to diſown them, as he hath done. Add to this, that he whoſe males were not circumciſed, was counted un<g ref="char:EOLhyphen"/>circumciſed himſelf, and debarr'd from
+<pb n="9" facs="tcp:97602:7"/>the Paſſover, <hi>Exod.</hi> 12.48. A like pro<g ref="char:EOLhyphen"/>portion there is now as to Baptiſm. I do here but darken what I have more clearly ſpoken to in my Printed Book, becauſe I would not be tedious; and yet forced to ſay ſomething to it. <hi>Dum brevis eſſe la<g ref="char:EOLhyphen"/>boro; — Obſcurus fio.</hi>
+            </p>
+            <p>Thirdly, To his third queſtion, I re<g ref="char:EOLhyphen"/>turn, the more is their evil; that the Baptiſm of the children of in-churched Parents is not acknowledged by them; and that it is not unpleaſant to them to raiſe arguments againſt it. <hi>Ingens glo<g ref="char:EOLhyphen"/>ria!</hi>
+            </p>
+            <p>At length, ſuppoſing he hath gotten the victory, he marches off with his co<g ref="char:EOLhyphen"/>lours flying; ſaying, that there is not the leaſt parity or compariſon to be made be<g ref="char:EOLhyphen"/>twixt the one and the other; nor the leaſt conſiderable pretence to imagine, that any Infants were baptized, becauſe 'tis ſaid that houſholds were; and he gives two reaſons.</p>
+            <p n="1">1. Becauſe there are many houſholds wherein are no children, and no proof of one infant belonging to either of theſe two houſholds.</p>
+            <p n="2">2. Becauſe in the four houſholds men<g ref="char:EOLhyphen"/>tioned to be baptized in Scripture, at leaſt
+<pb n="10" facs="tcp:97602:8"/>in three of them, only ſuch as were taught believers are comprehended.</p>
+            <p>
+               <hi>Anſw.</hi> One will ſuffice our turn: what if no infant were expreſly mentioned in thoſe two houſholds I mentioned? In <hi>Lydia</hi>'s houſe there's no mention of any beſides her ſelf converted, and yet her houſe or houſhold ſaid to be baptized: as if the Lord would point out unto us, her child, or children, which in other Scrip<g ref="char:EOLhyphen"/>tures are ſet forth by the name of houſe or houſhold, as hath been ſhewn. And ſuch a ground of an interpretation from the holy Scriptures, ought to be of more value to us, than 10000 cavils of men to the contrary: and would be ſo, if we had that degree of reverence for the wiſdom of God in the Scriptures, as there ſhould be.</p>
+            <p>Suppoſe <hi>Lydia</hi> were a ſingle perſon: is not a Widow ſo? and hath not many a Widow a young child, or children? I ſhall therefore return the Replyers words, vvith ſome variation, upon himſelf; <hi>viz.</hi> Surely it is on their part, that ſay ſhe had no children, and that her children vvere not baptized, to prove it: eſpecially that ſhe had ſervants, or other grovvn perſons in her houſe, and that they vvere converted,
+<pb n="11" facs="tcp:97602:8"/>and were the only houſhold there bapti<g ref="char:EOLhyphen"/>zed, <hi>Acts</hi> 16.15. A bold aſſertion with<g ref="char:EOLhyphen"/>out ground from Scripture, is not ſuffici<g ref="char:EOLhyphen"/>ent to prove it. Were the brethren that <hi>Paul</hi> and <hi>Sylas</hi> ſaw at <hi>Lydia</hi>'s houſe, and comforted, of <hi>Lydia</hi>'s family? <hi>ver.</hi> 40. Let him make it appear, or elſe never pro<g ref="char:EOLhyphen"/>duce it to overthrow an interpretation grounded upon, and warranted by the Scripture. <hi>Paul</hi> and <hi>Sylas</hi> ſaw the bre<g ref="char:EOLhyphen"/>thren, and comforted them at <hi>Lydia</hi>'s houſe; <hi>ergo</hi> they were of <hi>Lydia</hi>'s houſ<g ref="char:EOLhyphen"/>hold. <hi>Negatur argumentum.</hi>
+            </p>
+            <p>As for the houſhold of <hi>Stephanas,</hi> it ſeems they were baptized when the Apo<g ref="char:EOLhyphen"/>ſtle firſt preached the Goſpel in thoſe parts; which ſeems to be ſome years be<g ref="char:EOLhyphen"/>fore, (how many I cannot yet find). And then thoſe that were baptized in their childhood might be grown up, and con<g ref="char:EOLhyphen"/>verted, and ſo with their godly Father addict themſelves to the miniſtry of the Saints. What Dr. <hi>Hamond,</hi> or other men of note <hi>(Salva reverentia)</hi> may con<g ref="char:EOLhyphen"/>feſs or hold concerning this, is no rule to me, nor to any others, who in humility look up to the Lord for his ſpirit to guide them into the right underſtanding of his word.</p>
+            <pb n="12" facs="tcp:97602:9"/>
+            <p>In the next place, Mr. <hi>Danvers</hi> comes to examine the parity betwixt the com<g ref="char:EOLhyphen"/>mand for womens receiving the Lord's Supper, and that which is pretended (as he pleaſes to ſay) by me, for Infants Bap<g ref="char:EOLhyphen"/>tiſm. <hi>Let a man examine himſelf, and ſo eat, &amp;c.</hi> 1 <hi>Cor.</hi> 11.28.</p>
+            <p>He is pleaſed to term what I have ſaid to that command urged by him; <hi>A meer trifling in the things of God, and a playing with words to pervert the truth. And a little after, he verily believes that I know there is little but deceit in it.</hi>
+            </p>
+            <p>It ſeems then he believes I know ſome<g ref="char:EOLhyphen"/>thing (notwithſtanding his hard cenſure) that is not deceit in it. But I muſt here tell him, and others of his mind, that I abhor the things he charges on me, and his very belief of them. Is this the Gen<g ref="char:EOLhyphen"/>tleman that taxes Mr. <hi>Wills</hi> ſo ſeverely for his uncharitableneſs towards him, and many other things? I am ſure I gave him no ſuch occaſion, whatever he conceives of Mr. <hi>Wills.</hi> But to return; I know not any deceit in what I have ſaid, nor any purpoſe I had to deceive; but it was to ſhew his deceit (which I would have rather called his miſtake, but that he hath put the word in my mouth) who will
+<pb n="13" facs="tcp:97602:9"/>allow of nothing but expreſs Scripture, (I ſay again, expreſs) in matters of wor<g ref="char:EOLhyphen"/>ſhip; particularly of the Sacraments, and the Subjects-recipient of them. I pro<g ref="char:EOLhyphen"/>duced the Greek words in the context, 1 <hi>Cor.</hi> 11. ſhewing that they were ex<g ref="char:EOLhyphen"/>preſly] of the maſculine gender, and not of the feminine: and ſo did expreſly] I ſay again, expreſly] denote males, not females. And though the word <hi>Anthropos</hi> in <hi>ver.</hi> 28. be of both genders in the gene<g ref="char:EOLhyphen"/>ral; yet that it was there expreſly limited with a relative of the maſculine (<gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>). I ſay again expreſly]; for there is not a word, that I find in the Text, or Context, as to this matter, which is expreſly] of the feminine. There is no <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> nor <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. What I have ſaid therefore, I hope is in ſeriouſ<g ref="char:EOLhyphen"/>neſs, and Chriſtian ſobriety, to diſcover, and refute his trifling, and miſtakes, and leading others aſide: and that he cannot hence expreſly, I ſay expreſly] prove, that women ſhould receive the Lord's Supper; but muſt infer it thence by deduction, and by his figure <hi>Syllepſis,</hi> ſpoken of before; which I do not deny, nor ever did. But thence I took, and now do take an advan<g ref="char:EOLhyphen"/>tage, to urge him, and others of his mind, to admit of conſequences and deductions
+<pb n="14" facs="tcp:97602:10"/>clearly ariſing from the Scriptures of truth rightly underſtood, in this point of In<g ref="char:EOLhyphen"/>fants right, in the Covenant of Grace Eccleſiaſtically diſpenſed, and of Baptiſm the initiatory ſeal of it.</p>
+            <p>Here Mr. <hi>Danvers</hi> is in his Trophies again, concluding my exceptions to his command, are as inſignificant as thoſe to his example. Let him pleaſe himſelf in his gloryings, till the Lord convince him of the reaſon he hath to repent of them.— He next falls upon the command I pro<g ref="char:EOLhyphen"/>duced for the Baptiſm of the Infant, <hi>&amp;c.</hi> of an inchurched Parent, or Parents; and that was Chriſt's commiſſion, <hi>Matth.</hi> 28.19. Where I alſo expounded, <hi>Mark</hi> 16.15, 16.</p>
+            <p>Inſtead of replying to the interpreta<g ref="char:EOLhyphen"/>tion of thoſe Texts, (in which, I believe, I had the gracious aſſiſtance of God, which I thankfully acknowledge) he refers me (as he ſaith) for my better information, to the account Mr. <hi>Baxter</hi> gives of it, <hi>&amp;c.</hi>
+            </p>
+            <p>Is this a ſatisfactory anſwer to the things there delivered. I ſuppoſe Mr. <hi>Baxter</hi> himſelf is more ingenious, than to bind up all other men to ſay only that, and no more, or no otherwiſe than he
+<pb n="15" facs="tcp:97602:10"/>ſaith upon that or other Scriptures; yea, than to bind up himſelf only to his for<g ref="char:EOLhyphen"/>mer notions, in all that he hath written. I could refer him to arguments in Mr. <hi>Baxter</hi>'s Books, that undermine his opi<g ref="char:EOLhyphen"/>nion; but I ſuppoſe they will not take with him. Doth the Gentleman think I have laid aſide my Reaſon and Religion alſo? I honour and eſteem the labours of learned and pious men, but am not wil<g ref="char:EOLhyphen"/>ling (nor I believe are they) that any ſhould make them Lords of their faith, and Maſters of their apprehenſions. That would be too much Phariſee-like, <hi>Matth.</hi> 23.7, 8.</p>
+            <p>But I doubt Mr. <hi>Danvers</hi> continues his diſtorting of Mr. <hi>Baxter</hi>'s words, in ex<g ref="char:EOLhyphen"/>tending that more generally, which he profeſſedly ſpake and meant of adult per<g ref="char:EOLhyphen"/>ſons only, as Mr. <hi>Wills</hi> hath evidenced to him. But I ſhall leave it to him to vin<g ref="char:EOLhyphen"/>dicate his own meaning.</p>
+            <p>His Reply to what I ſaid of Infants diſcipleſhip, from <hi>Acts</hi> 15. is nothing againſt my argument thence. Let the ju<g ref="char:EOLhyphen"/>dicious Reader conſider of both. Thoſe that the falſe Teachers preſt circumciſion upon after the manner of <hi>Moſes,</hi> ſome of which were children of eight days old, the Holy Ghoſt calls diſciples.</p>
+            <pb n="16" facs="tcp:97602:11"/>
+            <p>Mr. <hi>Danvers</hi> his Reply to my Book, is never like to put an end to the controver<g ref="char:EOLhyphen"/>ſy about Infant-baptiſm; but as he began the fire, ſo he increaſes it: the Lord alone can quench it. And I ſhall here let him know, that I am reſolved at preſent not to trouble the Preſs, nor others after this, about this point; which I am ſufficiently ſatisfied in, and have my ſmall ſhare in en<g ref="char:EOLhyphen"/>deavouring to ſatisfie others, which I hope the Lord will accept, though he rejects them, and ſome others of the more rigid of his perſwaſion reſpect me the leſs be<g ref="char:EOLhyphen"/>cauſe of them; which ſignifies no more with me than ſome of them would ſig<g ref="char:EOLhyphen"/>nify (to moſt that know them) if they and their mony were ſeparated.</p>
+            <p>I ſpeak not this as if I were unwilling to ſerve the Lord in pleading for the truth I have aſſerted for the future; or afraid of what can be replyed againſt it; but be<g ref="char:EOLhyphen"/>cauſe I ſee no end of controverting; and no further good to be expected from it. They will have the laſt word, and let them have it. There hath been enough ſaid to ſatisfy thoſe that are willing to re<g ref="char:EOLhyphen"/>ceive ſatisfaction.</p>
+            <p>I muſt now give him leave to anſwer to three or four ſmart and unhandſome re<g ref="char:EOLhyphen"/>flections, and rejoyn to them, and then I ſhall end.</p>
+            <pb n="17" facs="tcp:97602:11"/>
+            <p n="1">1. The firſt is, <hi>that I gave him juſt oc<g ref="char:EOLhyphen"/>caſion of offence, ſo unduly to mention his not taking notice of Mr.</hi> Baxter<hi>'s Errata, without any the leaſt regard to what he had ſo largely ſpoken for his ſatisfaction, and his own vindication; and reproving that his omiſſion with ſuch ſeverity, and wholly paſſing over thoſe horrible things remark'd by him (without controul as yet) out of Mr.</hi> Baxter<hi>'s Directory. This he counts partiality in me.</hi>
+            </p>
+            <p>What juſt occaſion of offence I gave him, and what ſeverity I uſed, let the Reader judge by my words, in my Preface to Mr. <hi>Danvers. Sir, hearing of ſome things in your Book relating to a perſon of note, who not long before had printed ſome paſſages, the noiſe of which (by the coming abroad of your Book, and as repreſented by you) filled the minds of many with admi<g ref="char:EOLhyphen"/>ration and aſtoniſhment, I could not reſt till I had gotten a ſight of them.</hi>
+            </p>
+            <p>
+               <hi>And in my margin I ſay this;</hi> viz. <hi>one of which, and a groſs one, was from your leaving out the word [not,] mentioned in the Printers Errata, with an Aſterisk pre<g ref="char:EOLhyphen"/>fixed to it.</hi> This is all I ſaid to it; and this was occaſioned by a Bookſeller, a friend of mine, who in his Shop, turned to the place, and ſhewed it to me. Judge here the ſeverity of my reproof.</p>
+            <pb n="18" facs="tcp:97602:12"/>
+            <p>If Mr. <hi>Danvers</hi> hath ſo largely ſpoken for Mr. <hi>Baxter</hi>'s ſatisfaction, and his own vindication], it was wholly unknown to me, till I read it in this his Reply.</p>
+            <p>And as for paſſing over thoſe horrible things remark'd by him, <hi>&amp;c.</hi> I did not judge it belonged to me to enter the liſts with Mr. <hi>Baxter</hi> in my Anſwer to Mr. <hi>Danvers;</hi> yea, though I had been fully ſatisfied that Mr. <hi>Danvers</hi> had dealt fairly in thoſe Collections, which yet I never examined; though I hear what ſome others ſay. Beſides, Mr. <hi>Danvers</hi> there intimates, as if more would be ſaid to them, or to that effect, (whether by him<g ref="char:EOLhyphen"/>ſelf, or others, I know not); and it may be he might have counted me unmannerly to have intruded my ſelf, and ſo to have prevented others. Why ſhould he think me, whom he judges to be ſo defective in Grammar, and Divinity, to be fit to grap<g ref="char:EOLhyphen"/>ple with ſo eminent a perſon in contro<g ref="char:EOLhyphen"/>verſies of that kind?</p>
+            <p n="2">2. The ſecond ſmart Reflection he charges me with, as being injurious to him, is about the <hi>Waldenſes,</hi> whom I pro<g ref="char:EOLhyphen"/>duced for Infant-Baptiſm, faithfully quo<g ref="char:EOLhyphen"/>ting the places, and words, out of <hi>Paul Perrin</hi>'s Hiſtory againſt Mr. <hi>Danvers</hi> his allegations.</p>
+            <pb n="19" facs="tcp:97602:12"/>
+            <p>I can truly ſay, I never heard of this diſtinction he gives to clear himſelf, till I read it in this his Reply; <hi>viz.</hi> That the ancient <hi>Waldenſes</hi> were againſt Infant-Baptiſm, but the more modern he grants were for it; whereas my ignorance ſup<g ref="char:EOLhyphen"/>poſed, both ancient and modern, to be for it. And I muſt ſtill ſuppoſe it, and hold faſt to what teſtimonies I have produced, till I can ſee better proof of what he ſays; and that thoſe teſtimonies I brought, did none of them concern the ancient <hi>Wal<g ref="char:EOLhyphen"/>denſes,</hi> but the modern only. And he muſt alſo prove that the body of the an<g ref="char:EOLhyphen"/>cient <hi>Waldenſes</hi> were againſt Infant-Baptiſm, and not here and there one of them; or elſe his teſtimony will be noto<g ref="char:EOLhyphen"/>riouſly fallacious. Theſe things I may hold without being injurious to him, or to my own conſcience.</p>
+            <p>Where Mr. <hi>Danvers</hi> anſwers to every one of them, which, he ſaith, I have not regarded] he doth not tell me. He may pleaſe to know, if he knew it not before, that my Book was in anſwer to his firſt piece, and in a few weeks after his came forth, ready for the Preſs, and was in <hi>Lon<g ref="char:EOLhyphen"/>don</hi> about ten or twelve months before it was printed. As for his ſecond piece, I
+<pb n="20" facs="tcp:97602:13"/>never read it to this day; nor have I mo<g ref="char:EOLhyphen"/>ny to ſpare to buy ſuch Books. If this anſwer ſatisfie him not, he may charge himſelf with diſingenuity, and not me.</p>
+            <p n="3">3. He hath to blame me for a piece of unfairneſs, not to ſay unfaithfulneſs, about the word <hi>Tabal,</hi>
+               <note place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> which he would have to juſtifie the dipping of the body all under water, as the only outward way of Bap<g ref="char:EOLhyphen"/>tizing. I produced that Hebrew word, <hi>pag.</hi> 190 of my Book, out of <hi>Gen.</hi> 37.31. <hi>Ruth</hi> 2.14. Againſt which he makes no exception; but he is againſt my dealing with it in <hi>Levit.</hi> 14.6. and tells me, as I deal with it, I would neceſſitate another in<g ref="char:EOLhyphen"/>terpretation to be put upon it, than to dip (to wit wholy under) contrary to the <hi>Sep<g ref="char:EOLhyphen"/>tuagint, &amp;c.</hi> and the true force of the word.</p>
+            <p>My words are theſe; Is it credible that the Bird that was killed did yield ſo much blood, as that all thoſe things (<hi>viz.</hi> the living Bird, and the Cedar-wood, and the Scarlet, and the Hyſop) could be dipped under it, and covered with it? Here he taxes me that I left out the next words, [over the running water.] So I did, as conceiving them not at all to the matter in hand. And I heartily deſire that I may never be guilty of unfaithfulneſs, par<g ref="char:EOLhyphen"/>tiality
+<pb n="21" facs="tcp:97602:13"/>and deceit, in dealing with the ho<g ref="char:EOLhyphen"/>ly Word of God, more than I am guilty in this particular; and then I doubt not, but through Chriſt, to look up with com<g ref="char:EOLhyphen"/>fort. It is not ſaid in <hi>ver.</hi> 6. That he ſhall dip them, and the living Bird, in the run<g ref="char:EOLhyphen"/>ning water; but he ſhall dip them, &amp; the li<g ref="char:EOLhyphen"/>ving bird, in the blood of the bird that was killed over the running water, as in <hi>ver.</hi> 5.</p>
+            <p>
+               <hi>But he taxes me that I took no notice of what follows in ver.</hi> 51. viz. <hi>And he ſhall dip them in the blood of the ſlain Bird, and the running water: but that I went on with my inference, as though the running water was not to be concerned in the caſe; and ſay, Is it credible, that the Bird that was killed, did yield ſo much blood, that all thoſe things could be dip'd under it, and covered with it?</hi> &amp;c.— And ſo I ſay ſtill, and ſhall clearly ſhew, how unfairly he deals with the Word of God, that I may not ſay (to uſe his own ſenſe) unfaithfully, partially, &amp; deceitfully. I ſhall deſire the im<g ref="char:EOLhyphen"/>partial Reader (for I have no hope to pre<g ref="char:EOLhyphen"/>vail with others) to obſerve how this Gen<g ref="char:EOLhyphen"/>tleman deals with the holy word of God, &amp; with me alſo, &amp; his readers, in this point.</p>
+            <p>In <hi>ver.</hi> 5, 6. is handled the caſe of a lea<g ref="char:EOLhyphen"/>prous perſon; and there thoſe things, and
+<pb n="22" facs="tcp:97602:14"/>the living Bird, were to be dip'd only in the blood of the Bird, that was killed over the running water, but nothing there ſpoken of dipping them into the water it ſelf. But in <hi>ver.</hi> 51. the caſe is concer<g ref="char:EOLhyphen"/>ning a leaprous houſe, how that ſhould be cleanſed? and there it is, that the things fore-mentioned, and the living Bird, are to be dip'd in the blood of the ſlain bird, and in the running water.</p>
+            <p>Let now the judicious Reader judge which of us hath dealt unfairly, unfaith<g ref="char:EOLhyphen"/>fully, partially with the Law, and deceit<g ref="char:EOLhyphen"/>fully, he or I. How hath he leaped over above forty verſes, to bring in dipping in the water, to maintain his aſſertion, not at all belonging to the thing treated of? in <hi>ver.</hi> 5, 6. I ſhall leave it to his conſcience in cool blood, and to all impartial Readers to determine, whether he muſt not run to a <hi>Synecdoche</hi> here, that a part of thoſe things only, was dip'd, and not the whole. I would have tranſcribed ſeveral things out of the Jewiſh Rabbins, quoted by Mr. <hi>Ainſworth,</hi> but that I ſhould be too prolix. The water was, as they ſay, as much as an egg-ſhell and an half.</p>
+            <p n="4">4. His laſt unhandſome reflection char<g ref="char:EOLhyphen"/>ged upon me, reſpects an abſurdity I
+<pb n="23" facs="tcp:97602:14"/>charge upon him, which he conceives will return upon my ſelf, and my Partner too, with diſadvantage. (I ſuppoſe he means Mr. <hi>Wills,</hi>
+               <note place="margin">I can aſ<g ref="char:EOLhyphen"/>ſure him, his infor<g ref="char:EOLhyphen"/>mation failed him</note> who was far enough from be<g ref="char:EOLhyphen"/>ing my Partner). And that is, of his miſſing it in his Logick, in affirming the right ſubject of Baptiſm (<hi>viz.</hi> a profeſſed believer) to belong to the matter and eſ<g ref="char:EOLhyphen"/>ſence of Baptiſm: for Anſwer;</p>
+            <p>
+               <hi>Mr.</hi> Danvers <hi>ſaith in his Book to which I anſwered, that the nullity and utter in<g ref="char:EOLhyphen"/>ſignificancy of Infants Baptiſm, is made ap<g ref="char:EOLhyphen"/>pear, in that it wants the eſſentials; to wit, matter and form.</hi> And coming to ſhew that it hath not a right matter, inſtead thereof, he brings in the ſubject, and ſays, the right ſubject of Baptiſm is wanting.</p>
+            <p>Here I ſaid, he miſt it in his Logick; for matter is one of the two eſſential cauſes that gives being to the effect; but the ſubject is not ſo, but in order of na<g ref="char:EOLhyphen"/>ture at leaſt, follow the effect. It is <hi>Ar<g ref="char:EOLhyphen"/>gumentum modo quodam conſentaneum,</hi> and not <hi>Abſolute conſentaneum,</hi> as cauſe and effect are.</p>
+            <p>To this he replies, that the ſubject be<g ref="char:EOLhyphen"/>longs to the matter and eſſence of Bap<g ref="char:EOLhyphen"/>tiſm, will be juſtified by <hi>Burgerſdicius,</hi> who tells him, that the ſubject belongs to
+<pb n="24" facs="tcp:97602:15"/>the matter, [and is of the eſſence thereof], <hi>&amp;c.</hi> To which I rejoyn, that I cannot find in <hi>Burgerſdicius</hi> the leaſt foot-ſtep of this laſt aſſertion, to wit, that the ſubject is of the eſſence of the matter, but in effect, the quite contrary; as appears by his de<g ref="char:EOLhyphen"/>finition of the ſubject. A ſubject, ſaith he, is that to which ſomething is adjoyned beſides the eſſence.<note place="margin">Subjectum eſt cui aliquid prae<g ref="char:EOLhyphen"/>ter eſſentiam adjungitur. Cap. <hi>19.</hi> Inſtit. Log. p. <hi>79.</hi> Quae de ali<g ref="char:EOLhyphen"/>quo praedicantur eſſentialiter, huc non pertinent, ut ex ſubje<g ref="char:EOLhyphen"/>cti &amp; Adjuncti definitione in<g ref="char:EOLhyphen"/>telligitur.</note> Therefore (I infer) the ſubject cannot be of the eſſence of the matter; for that gives part of the eſſence to to the effect. And a<g ref="char:EOLhyphen"/>gain, thoſe things that are predicated, (that is, ſpoken of another thing) eſſen<g ref="char:EOLhyphen"/>tially, do not belong to this, as appears (ſaith he) by the definition of ſubject and adjunct.</p>
+            <p>It's true that <hi>Burgerſdicius</hi> diſtributes matter into of which,<note place="margin">Materia ex qua, in qua, &amp; circa quam</note> in which, and about which (and ſo do other Logicians). But in the ſame Theorem (<hi>in Cap.</hi> 16. <hi>de Mat. &amp; forma Theorem;</hi> 3 <hi>Sect.</hi> 2.) he alſo tells us, that the matter in which] is the ſub<g ref="char:EOLhyphen"/>ject; and the matter about which] is the object, which he refers to be ſpoken of in their proper place; to wit, his <hi>19th.</hi>
+               <pb n="25" facs="tcp:97602:15"/>Chapter <hi>de Subjecto &amp; Adjuncto.</hi>
+               <note place="margin">Materia eſt id, ex quo inex<g ref="char:EOLhyphen"/>iſtente, ali<g ref="char:EOLhyphen"/>quid fit. Materia eſt cauſa interna ex qua ali<g ref="char:EOLhyphen"/>quid fit, vel conſtat. Sect. <hi>1.</hi> Theor. <hi>3.</hi>
+               </note> But the matter of which] ſaith he, is matter pro<g ref="char:EOLhyphen"/>perly ſo called, which in his <hi>16th.</hi> Chap<g ref="char:EOLhyphen"/>ter, where he treats of matter and form, as eſſential cauſes, he defines thus; Mat<g ref="char:EOLhyphen"/>ter is that, of which inexiſting, any thing is made. And again, matter is an inter<g ref="char:EOLhyphen"/>nal cauſe of which any thing is made, or conſiſts. And this is the only, matter that is eſſential, and gives being to the thing, together with the eſſential form; and not the matter in which], and about which], which are ſubject and object. The matter is indeed part of the eſſence of the ſubject, and not the ſubject of the eſſence of the matter.</p>
+            <p>Let the Reader now judge what diſ<g ref="char:EOLhyphen"/>advantage hath befallen me, or the truth I have aſſerted, by this of <hi>Burgerſdicius;</hi> and whether it hath not wholly fallen up<g ref="char:EOLhyphen"/>on the Replier himſelf, and the cauſe he pleads for. I cannot but obſerve how unhappy this Gentleman is in his dea<g ref="char:EOLhyphen"/>ling with Authors, ſo as to miſs the right ſenſe of them. Unto which I ſhall fur<g ref="char:EOLhyphen"/>ther add, that if that ſentence, to wit, that the ſubject is of the eſſence thereof (<hi>i.e.</hi> the matter) be not to be found in <hi>Burgerſdicius</hi> (as I cannot yet believe it is)
+<pb n="26" facs="tcp:97602:16"/>then he hath clearly forged one falſhood to eſtabliſh another.</p>
+            <p>And as for that out of <hi>Tilenus,</hi> it makes not againſt me at all; for, he ſaith not, that the ſubject-recipient is the <hi>ma<g ref="char:EOLhyphen"/>teria ex qua,</hi> the matter of which] of Bap<g ref="char:EOLhyphen"/>tiſm. Beſides, if he had ſaid ſo, his <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> would not have ſwayed any man, except one reſolved to ſubjugate his Rea<g ref="char:EOLhyphen"/>ſon and Religion alſo to his dictates. I ſuppoſe Mr. <hi>Danvers</hi> would be loth to ſtand to his judgment in ſundry other things.</p>
+            <p>As to that out of <hi>Alex. de Halys;</hi> if the authority of both thoſe mentioned be worth any thing in this caſe, yet ſurely Mr. <hi>Danvers</hi> his Tranſlation is worth lit<g ref="char:EOLhyphen"/>tle. <hi>Tinctio eſt formalis cauſa Baptiſmi, &amp; ſi tinctio, non lotio, vel lavatio, vel ablutio:</hi> which he tranſlates thus; Dipping is the formal cauſe of Baptiſm, and if dipping, then not waſhing or pouring. How <hi>ab<g ref="char:EOLhyphen"/>lutio</hi> ſhould [directly] ſignify pouring, is beyond my Conſtruing-book to inform me; however, I am very willing to ac<g ref="char:EOLhyphen"/>cept of his grant, that it ſignifies ſuch a waſhing as is by pouring on water, op<g ref="char:EOLhyphen"/>poſed by him to dipping; and then it will yield us ſomething, which draws near
+<pb n="27" facs="tcp:97602:16"/>at leaſt to ſprinkling. If my memory fail me not, he uſeth it in his firſt Book, to ſet forth dipping; (I have not the Book by me, to ſearch it out). But that by <hi>tinctio</hi> there, the Authors mean, not dipping, but rather aſperſion or ſprinkling, I ſhall offer theſe two things for.</p>
+            <p n="1">1. A phraſe that Dr. <hi>Couper</hi> in his Dictionary hath out of <hi>Ovid,</hi> who doubt<g ref="char:EOLhyphen"/>leſs well knew the ſignification of Latin words. <hi>Corpus tingere ſparſa aqua;</hi> which the Dr. renders, To waſh his body by ca<g ref="char:EOLhyphen"/>ſting water on it. Whence it ſeems <hi>tingo</hi>] is not always uſed, for to dip, but ſome<g ref="char:EOLhyphen"/>times to aſperſe or ſprinkle. <hi>Sparſa aqua.</hi>
+            </p>
+            <p n="2">2. The oppoſition here, between <hi>tinctio</hi> on the one part; and <hi>lotio, lavatio</hi> and <hi>ablutio</hi> on the other. If <hi>tinctio</hi> here, be dipping, then the others muſt be ſprink<g ref="char:EOLhyphen"/>ling, which he renders pouring; a waſh<g ref="char:EOLhyphen"/>ing by pouring on water. It muſt be one of theſe two; for there's no other way of Baptizing, beſides dipping and ſprink<g ref="char:EOLhyphen"/>ling; if dipping, then not ſprinkling; if ſprinkling, then not dipping. And it ſeems Mr. <hi>Danvers</hi> could not avoid the tranſlating of <hi>ablutio,</hi> by pouring], if he meant to make <hi>tinctio,</hi> dipping. I am much miſtaken if lotion and ablution be
+<pb n="28" facs="tcp:97602:17"/>not uſed by him in the Book I anſwered, <hi>contra</hi>-diſtinct to ſprinkling, and for dip<g ref="char:EOLhyphen"/>ping; but I will not poſitively aſſert it, for I would not wrong him.</p>
+            <p>To draw to an end, I return his own words, with a little mutation, and addi<g ref="char:EOLhyphen"/>tion; if thoſe learned be not right, or he hath miſapprehended or miſuſed them, then ſure, he my reprover is wrong, and deſerves blame and ſhame for his raſhneſs, or ſomething more.— By what I have ſaid will appear, that his Logick hath not proved the ſubject to be of the eſſence of the matter of Baptiſm.</p>
+            <p>In baptizing the infants, or young chil<g ref="char:EOLhyphen"/>dren of an inchurched Parent, we do not alter and change the ſubject, but do give them what God hath appointed ſhould be given to ſuch, whoſe Parent is externally in covenant with him: and that is, the initiatory ſign and ſeal of that covenant of grace which God made with <hi>Abraham</hi> and his Church-ſeed. See more at large in my Eſſay. But I am forced to ſay ſome<g ref="char:EOLhyphen"/>thing to it, that the Truth of God, and the Church of God, may not ſuffer by my ſilence.</p>
+            <p>As or the baptizing of Swords, <hi>&amp;c.</hi> he may pleaſe to remit it to the Pope, and his Croiſſa<g ref="char:EOLhyphen"/>does.— <hi>Nulla ſelus bello, pacem te poſctmus.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:97602:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
